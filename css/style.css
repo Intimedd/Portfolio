@@ -84,6 +84,10 @@ h5 {
     margin-bottom: 20px;
 }
 
+.work img {
+    border: 3px solid #989898;
+}
+
 .footer {
     text-align: center;
     padding: 20px 0;
